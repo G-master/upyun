@@ -1,4 +1,4 @@
-#!/bin/bash:wq
+#!/bin/bash
 i=1
 
 disk()
