@@ -15,7 +15,7 @@ function usage() {
     echo "Usage: format [OPTIONS]"
     echo ""
     echo "  --disk-size:   { format the disk depend on size[GB] "
-    echo "  --mount-file:  mount point name, path like /disk/[sata/ssd]"
+    echo "  --mount-path:  mount point name, path like /disk/[sata/ssd]"
     echo "  --fs: filesystem type, ext4 or xfs |~defualt: XFS"
     echo "  --sys-disk {Select your system disk to prevent formatting |~default:  /dev/sda  }"
     echo "  --help: help message"
